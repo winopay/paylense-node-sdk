@@ -1,4 +1,4 @@
-# Paylense API NodeJS Client</h1>
+# Paylense API NodeJS Client[STILL UNDER DEVELOPMENT]</h1>
 
 <strong>Power your ECMA apps Paylense API</strong>
 
